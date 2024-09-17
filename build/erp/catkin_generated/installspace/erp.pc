@@ -1,0 +1,8 @@
+prefix=/home/unita/erp_final_ws/install
+
+Name: erp
+Description: Description of erp
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

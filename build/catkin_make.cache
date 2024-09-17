@@ -1,0 +1,2 @@
+erp:rubber_cone_mission:serial_communication/src/erp_driver:ublox_f9p/ntrip_ros:ublox_f9p/rtcm_msgs:ublox_f9p/ublox:ublox_f9p/ublox_gps:ublox_f9p/ublox_msgs:ublox_f9p/ublox_serialization:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/unita/erp_final_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unita/erp_final_ws/install -G Unix Makefiles

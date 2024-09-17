@@ -1,0 +1,7 @@
+<launch>
+
+	<node pkg="erp" type="gps_imu_parser.py" name="odom_publishing"/>
+	<node pkg="erp" type="path_pub.py" name="path_publishing"/>
+	<node pkg="erp" type="pure_pursuit.py" name="command_publishing"/>
+	
+</launch>
