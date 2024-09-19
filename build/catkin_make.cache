@@ -1,2 +1,2 @@
-erp:rubber_cone_mission:serial_communication/src/erp_driver:ublox_f9p/ntrip_ros:ublox_f9p/rtcm_msgs:ublox_f9p/ublox:ublox_f9p/ublox_gps:ublox_f9p/ublox_msgs:ublox_f9p/ublox_serialization:usb_cam
+erp:lidar_camera_calibration:lidar_camera_fusion:rubber_cone_mission:serial_communication/src/erp_driver:ublox_f9p/ntrip_ros:ublox_f9p/rtcm_msgs:ublox_f9p/ublox:ublox_f9p/ublox_gps:ublox_f9p/ublox_msgs:ublox_f9p/ublox_serialization:usb_cam:velodyne/velodyne:velodyne/velodyne_driver:velodyne/velodyne_laserscan:velodyne/velodyne_msgs:velodyne/velodyne_pcl:velodyne/velodyne_pointcloud
 -DCATKIN_DEVEL_PREFIX=/home/unita/erp_final_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unita/erp_final_ws/install -G Unix Makefiles

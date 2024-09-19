@@ -1,0 +1,16 @@
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/install/strip.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/install/local.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/install.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/list_install_components.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/rebuild_cache.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/edit_cache.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/test.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/CMakeFiles/armadillo.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/install/strip.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/install/local.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/install.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/list_install_components.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/rebuild_cache.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/edit_cache.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/test.dir
+/home/unita/erp_final_ws/src/armadillo-14.0.2/build/tests1/CMakeFiles/smoke_test.dir

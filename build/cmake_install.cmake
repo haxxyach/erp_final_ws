@@ -131,16 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/unita/erp_final_ws/build/gtest/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/ntrip_ros/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/rtcm_msgs/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/ublox/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/erp/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/serial_communication/src/erp_driver/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/rubber_cone_mission/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/ublox_serialization/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/ublox_msgs/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/ublox_f9p/ublox_gps/cmake_install.cmake")
-  include("/home/unita/erp_final_ws/build/usb_cam/cmake_install.cmake")
+  include("/home/unita/erp_final_ws/build/lidar_camera_fusion/cmake_install.cmake")
 
 endif()
 

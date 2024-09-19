@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2   CMakeFiles/smoke_test.dir/smoke_test.cpp.o  -o smoke_test  -Wl,-rpath,/home/unita/erp_final_ws/src/armadillo-14.0.2/build ../libarmadillo.so.14.0.2 /usr/lib/x86_64-linux-gnu/libatlas.so /usr/lib/x86_64-linux-gnu/libblas.so /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libarpack.so /usr/lib/x86_64-linux-gnu/libsuperlu.so 
